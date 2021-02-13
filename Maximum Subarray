@@ -11,6 +11,7 @@ class Solution {
             c+=n;
             maxsum=Math.max(maxsum,c);
         }
+
         return maxsum;
     }
 }
